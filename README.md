@@ -1,33 +1,22 @@
- 💻 Responsive Calculator App
+# Image Gallery Project
 
-This is a simple and responsive calculator built using **HTML, CSS, and JavaScript** as part of my internship task for **Code Alpha**. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+> 💼 Task for Code Alpha Internship (HTML, CSS, JavaScript)
 
-🚀 Live Demo
+This is a responsive Image Gallery web application created using only **HTML**, **CSS**, and **Vanilla JavaScript** — no frameworks used.
 
-👉 [Click here to view the live project](https://madnan1504.github.io/CodeAlpha_Task/)
+## 🔥 Features
 
- 🎯 Features
+- Responsive layout (grid-based)
+- Category filter (Nature, Tech, Animals)
+- Live search by tags
+- Smooth image hover effect
+- Mobile-friendly design
 
-- Basic arithmetic operations: `+`, `-`, `×`, `÷`
-- Responsive design (works on mobile and desktop)
-- Clear button to reset the display
-- Clean and minimal UI
-- Real-time input display
+## 📸 Technologies Used
 
- 🛠️ Technologies Used
+- HTML5
+- CSS3 (Grid, Flex, Media Queries)
+- JavaScript (DOM manipulation)
 
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages (for deployment)
 
- 🧠 What I Learned
 
-- DOM manipulation with JavaScript
-- Event handling
-- Organizing logic into clean functions
-- Using Git and GitHub for version control and deployment
-
- 🙏 Acknowledgement
-
-Thanks to **Code Alpha** for giving me this opportunity to sharpen my front-end skills and build something from scratch.
